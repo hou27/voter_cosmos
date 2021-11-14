@@ -1,1 +1,5 @@
 *.go linguist-detectable=true
+app/** linguist-documentation=false
+app/** linguist-vendored=false
+testutil/** linguist-documentation=false
+testutil/** linguist-vendored=false
